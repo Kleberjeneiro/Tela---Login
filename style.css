@@ -1,0 +1,43 @@
+body {
+    background: black;
+}
+
+
+#direita {
+    float: right;
+}
+
+td {
+    color: white;
+    font-family: "Segoe UI Emoji";
+    font-size: medium;
+    border-radius: 10px;
+    border: solid;
+}
+
+h1 {
+    text-decoration: underline;
+    font-family: "Segoe UI Black";
+    color: white;
+}
+
+#menu {
+   padding: 20px;
+    margin: 20px;
+
+}
+
+
+
+#agen {
+    width: 1.2em;
+}
+
+#login {
+    display: inline-block;
+}
+
+a:link , a:visited {
+    color: rgba(255, 255, 255, 0.452);
+    background: #fff;
+}
